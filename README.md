@@ -37,10 +37,19 @@
 ## Database
 ### Room
 ### Realm
+- [Realm](https://realm.io/docs/java/latest/)
 
 ## Image
 ### Glide
+- [Glide](https://github.com/bumptech/glide)
+### Fresco
+- [Fresco](https://frescolib.org/)
 
 ## Network
 ### OkHttp
 ### Retrofit2
+
+## Test & CI
+### CircleCI
+- [안드로이드 앱 품질 높이기](https://www.androidhuman.com/lecture/quality/2016/10/03/android_quality_part1_circleci/)
+- [CircleCI로 GitHub CI 구성](https://blog.themuser.xyz/circleci%EB%A1%9C-github-ci-%EA%B5%AC%EC%84%B1/)
