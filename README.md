@@ -2,6 +2,8 @@
 개인적으로 공부하면서 안드로이드 학습에 유용하다고 생각되는 자료들을 모았습니다.<br>
 
 ## Gradle
+- [Gradle Tutorial for Android: Getting Started](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)<br>
+맨날 쓰는 그래들이지만 제대로 된 사용법도 몰랐고 Kotlin으로 그래들 파일을 만들 수도 있었네요.
 
 ## Kotlin
 - [Kotlin KTX](https://developer.android.com/kotlin/ktx)
