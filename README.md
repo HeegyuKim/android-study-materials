@@ -5,6 +5,7 @@
 - [Gradle Tutorial for Android: Getting Started](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)<br>
 맨날 쓰는 그래들이지만 제대로 된 사용법도 몰랐고 Kotlin으로 그래들 파일을 만들 수도 있었네요.
 
+
 ## Kotlin
 - [Kotlin KTX](https://developer.android.com/kotlin/ktx)
 
@@ -19,7 +20,7 @@
 ### ViewModel
 
 
-## Design Pattern
+## Pattern and Architecture
 ### ReactiveX
 - [RxJava Github](https://github.com/ReactiveX/RxJava)
 - [RxJava란? - 기본구조](https://juyoung-1008.tistory.com/38)
@@ -51,7 +52,25 @@
 ### OkHttp
 ### Retrofit2
 
-## Test & CI
+## CI & CD
+### Unit Test
+- [JUnit5](https://johngrib.github.io/wiki/junit5-nested/)
+- [Spek Framework](https://www.spekframework.org/specification/)
+
 ### CircleCI
 - [안드로이드 앱 품질 높이기](https://www.androidhuman.com/lecture/quality/2016/10/03/android_quality_part1_circleci/)
 - [CircleCI로 GitHub CI 구성](https://blog.themuser.xyz/circleci%EB%A1%9C-github-ci-%EA%B5%AC%EC%84%B1/)
+
+## 개발 방법론
+### TDD
+### BDD
+
+# 좋은 글
+- [Software Engineer Leveling Matrix](https://h3h.github.io/leveling-matrix/?fbclid=IwAR2hnMZK8uFiOpjSTWRW_IbwX5Wxt200kZ3VcSr_gaaA4oCvNgmiobphkqk)
+
+# TODO
+- Android Lint
+- Unit Test, UI Test
+- Architectrue(MVVM, MVI)
+- 방법론
+설명도 같이 쓰면 좋을듯
