@@ -2,15 +2,26 @@
 개인적으로 공부하면서 안드로이드 학습에 유용하다고 생각되는 자료들을 모았습니다.<br>
 
 ## Gradle
-- [Gradle Tutorial for Android: Getting Started](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)<br>
 맨날 쓰는 그래들이지만 제대로 된 사용법도 몰랐고 Kotlin으로 그래들 파일을 만들 수도 있었네요.
-
+- [Gradle Tutorial for Android: Getting Started](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)<br>
+- [Gradle's Kotlin DSL](https://medium.com/swlh/gradles-kotlin-dsl-buildsrc-4434100a07d7)
 
 ## Kotlin
 - [Kotlin KTX](https://developer.android.com/kotlin/ktx)
 
 ### Coroutine
 - [viewModelScope()](https://developer.android.com/kotlin/ktx#viewmodel) - viewModelScope() 함수는 백그라운드 스레드에서 네트워크 요청을 하는 코루틴을 실행합니다. 라이브러리는 모든 설정 및 상응하는 범위 삭제를 처리합니다.
+
+### Flow
+RxJava를 대체할 Kotlin의 무기인듯?? 기존 코루틴으로는 조금 부족했던 RxJava의 기능들을 제공...
+- https://proandroiddev.com/kotlin-flow-benefits-over-rxjava-b220658f1a92
+## Android Runtime(ART)
+### DalvikVM, APK, AAB
+
+- [DVM vs JVM](https://towardsdatascience.com/jvm-vs-dvm-b257229d18a2)
+- [안드로이드 컴파일 방식](https://medium.com/@logishudson0218/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EB%B0%A9%EC%8B%9D-dalvikvm-art-b5d64350489f)
+
+APK
 
 ## Android Architecture Component(AAC)
 ### Navigation
@@ -73,4 +84,5 @@
 - Unit Test, UI Test
 - Architectrue(MVVM, MVI)
 - 방법론
+- ART, DVM
 설명도 같이 쓰면 좋을듯
